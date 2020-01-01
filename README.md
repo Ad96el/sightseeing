@@ -6,7 +6,7 @@ To run this code you have to insert a Google API key in the file:
 
 sightseeing/android/app/src/main/AndroidManifest.xml
 
-You can create a key by pressing this [link](https://flutter.io/docs/get-started/codelab).
+You can create a key by pressing this [link](https://developers.google.com/maps/documentation/javascript/get-api-key).
 
 ## Features
 
