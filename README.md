@@ -8,7 +8,7 @@ sightseeing/android/app/src/main/AndroidManifest.xml
 
 You can create a key by pressing this [link](https://developers.google.com/maps/documentation/javascript/get-api-key).
 
-## Features
+### Features
 
 - showing the user location
 - showing points of interest in the surrounding
@@ -17,7 +17,7 @@ You can create a key by pressing this [link](https://developers.google.com/maps/
 - searching for objects
 - and many more 
 
-# Credit
+### Credit
 
 As part of our software project in 2018, Mert Efe, Rima Badran and Adel Golghalyani developed this application. 
 This was our first major project. 
