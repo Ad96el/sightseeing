@@ -1,0 +1,18 @@
+{
+    "settings_title": "Einstellungen",
+    "favourite_title": "Favoriten",
+    "language_title": "Sprache",
+    "privacy_title": "Datenschutz",
+    "imprint_title": "Impressum",
+    "route_title": "Beispiel Routen",
+    "lang_de": "Deutsch",
+    "lang_en": "Englisch",
+    "add2favourite": "zu Favoriten",
+    "delfromfavourite": "von Favoriten",
+    "added": " wurde zur Favoritenliste hinzugefügt!",
+    "deleted": " wurde aus der Favoritenliste entfernt!",
+    "route": "Route",
+    "places_title": "schöne Orte",
+    "route_mode": "Beförderungsmittel"
+
+}

@@ -1,0 +1,17 @@
+{
+    "settings_title": "settings",
+    "favourite_title": "favourites",
+    "language_title": "language",
+    "privacy_title": "privacy",
+    "route_title": "example route",
+    "imprint_title": "legal notice",
+    "lang_de": "german",
+    "lang_en": "english",
+    "add2favourite": "add",
+    "delfromfavourite": "delete",
+    "added": " added to favourite list!",
+    "deleted": " deleted from favourite list!",
+    "route": "route",
+    "places_title": "interesting places",
+    "route_mode": "mode of transportation"
+}

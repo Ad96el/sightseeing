@@ -1,0 +1,40 @@
+name: sightseeing
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  url_launcher: ^3.0.0
+  carousel_pro: ^1.0.0
+  csv: ^4.0.0
+  path_provider: ^1.1.0
+  location: ^1.4.1
+  google_maps_flutter: ^0.5.7
+  cupertino_icons: ^0.1.2
+  flutter_search_bar: ^2.0.7
+  http: ^0.12.0
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter  
+  shared_preferences: ^0.5.2  
+  splashscreen: ^1.2.0  
+  css_colors: ^1.0.0
+dev_dependencies: 
+  flutter_test:
+    sdk: flutter
+flutter_icons: 
+  image_path: "ressources/tor.jpg"
+  android: true
+  ios: true
+flutter:
+  uses-material-design: true
+  assets:
+    - locale/en.json
+    - locale/de.json
+    - ressources/
+    - ressources/ownPosition.png
+ 
