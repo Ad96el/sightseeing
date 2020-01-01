@@ -1,20 +1,24 @@
 # sightseeing
-<<<<<<< HEAD
 
-A new Flutter project.
+This is a flutter application, which shows the points of interest in the city Berlin.
 
-## Getting Started
+To run this code you have to insert a Google API key in the file: 
 
-This project is a starting point for a Flutter application.
+sightseeing/android/app/src/main/AndroidManifest.xml
 
-A few resources to get you started if this is your first Flutter project:
+You can create a key by pressing this [link](https://flutter.io/docs/get-started/codelab).
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## Features
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-=======
-Sightseeing Berlin
->>>>>>> 3baaf0b3509b2d97d764343f1606d1f2ce0e51ba
+- showing the user location
+- showing points of interest in the surrounding
+- calculating the shortest route to a point
+- drawing the route on the map
+- searching for objects
+- and many more 
+
+# Credit
+
+As part of our software project in 2018, Mert Efe, Rima Badran and Adel Golghalyani developed this application. 
+This was our first major project. 
+We developed everything from scratch. 
