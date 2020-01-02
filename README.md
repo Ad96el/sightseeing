@@ -19,6 +19,6 @@ You can create a key by pressing this [link](https://developers.google.com/maps/
 
 ### Credit
 
-As part of our software project in 2018, Mert Efe, Rima Badran and Adel Golghalyani developed this application. 
+As part of our software project at the Freie Universität Berlin in 2018, Mert Efe, Rima Badran and Adel Golghalyani developed this application. 
 This was our first major project. 
 We developed everything from scratch. 
